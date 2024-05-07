@@ -1,0 +1,26 @@
+.menu {
+    background-color: blue;
+    text-shadow: 2px 2px black
+}
+
+.teas {
+    background-color: aquamarine;
+    text-shadow: 2px 2px black;
+}
+
+.pastries {
+    background-color: pink;
+    text-shadow: 2px 2px black;
+}
+
+p {
+    font-size: 14px;
+}
+
+h1 {
+    color: purple;
+}
+
+li {
+    text-align: left;
+}
